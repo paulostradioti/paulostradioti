@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[Como o lucro do seu negócio precisa ser declarado no Imposto de Renda](https://digital.sebraers.com.br/blog/mei-entenda-se-o-lucro-do-seu-negocio-precisa-ser-declarado-no-imposto-de-renda)  
+[Sou MEI, e agora?](https://digital.sebraers.com.br/blog/sou-mei-e-agora/)  
+[Useful Developer Tools](https://github.com/paulostradioti/developers-tools)
